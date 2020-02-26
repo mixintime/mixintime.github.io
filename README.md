@@ -11,6 +11,19 @@ title: Home
   - **gxsuc@qq.com**
 - WeChat: **gx4482**
 - QQ: **471429282**
-- Site: **<https://wu-kan.cn>**
+- Site: **<https://mixintime.github.io>**
+
+## Skill
+
+- **C/C++**, Familiar
+  - **OpenMP**, Familiar
+  - **MPI**, Familiar&Learning
+  - **CUDA**, Learning
+- **Python**, Familiar
+- **Markdown**, Familiar
+- **LaTex**, Familiar
+- **Linux**, Familiar&Learning
+- **Git**, Familiar
+- **VSCode**, Familiar
 
 
