@@ -1,4 +1,4 @@
-title: 星合の空 # 站点标题
+title: 高欣的blog # 站点标题
 tagline: gao-xin
 description: | # 头像背后的信息，<br/>代表换行
   与自己的约定<br/>
@@ -17,9 +17,9 @@ description: | # 头像背后的信息，<br/>代表换行
   <a href="https://vjudge.net/user/WuK" title="GaoX">
     <i class="fas fa-smile"></i>
   </a>
-  # <a href="https://www.zhihu.com/people/wu.kan/activities" title="zhihu">
-  #   <i class="fab fa-zhihu"></i>
- # </a>
+    <a href="https://www.zhihu.com/people/wu.kan/activities" title="zhihu">
+     <i class="fab fa-zhihu"></i>
+    </a>
   <iframe
     src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
     width=100%
