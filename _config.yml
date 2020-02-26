@@ -64,7 +64,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var alipay = "";
           var paypal = "";
           var myname = "GaoX";
-          var profile = "assets/image/head.png";
+          var profile = "/assets/image/head.png";
           var multilingual = true;
           var myname_hans = "高欣";
           var myname_hant = "高欣";
@@ -166,7 +166,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       disable: false
       avatar: # 侧边栏显示的头像
         enable: true
-        img: assets/image/head.png # 头像的地址
+        img: /assets/image/head.png # 头像的地址
       nav:
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
@@ -256,7 +256,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_hour").innerHTML = setzero(hrsold);
                 document.getElementById("run_time_minute").innerHTML = setzero(minsold);
                 document.getElementById("run_time_second").innerHTML = setzero(seconds);
-              }, 1000, "10/05/2020 11:03:46") // 这是我第一篇CSDN博客的时间
+              }, 1000, "10/05/2013 11:03:46") // 这是我第一篇CSDN博客的时间
             </script>
           </div>
         - | # 不蒜子页面统计
@@ -307,12 +307,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         />
         <link
           rel="apple-touch-icon-precomposed"
-          href="assets/image/head.png"
+          href="/assets/image/head.png"
         />
         <link
           rel="shortcut
           icon"
-          href="https://gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?s=32"
+          href="/assets/image/head32.png"
         />
         <link
           rel="stylesheet"
