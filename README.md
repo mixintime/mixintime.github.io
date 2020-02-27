@@ -4,7 +4,7 @@ title: Home
 
 ## Contact
 
-- Address: ** JiLinUniversity University - JiLinUniversity NanHu. - JiLin, China**
+- Address: ** JiLinUniversity - JiLinUniversity NanHu. - JiLin, China**
 - Phone: **+86 17300060295**
 - E-mail:
   - **gaoxinsuc@163.com**
@@ -12,6 +12,7 @@ title: Home
 - WeChat: **gx4482**
 - QQ: **471429282**
 - Site: **<https://mixintime.github.io>**
+- Motto: ** If you can make it here, you can make it anywhere.**
 
 ## Skill
 
