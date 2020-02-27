@@ -58,10 +58,10 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # 支持的变量见https://merger.justhx.com/cn/docs/configure
         <script>
           var usage = "payment";
-          var wechat = "";
-          var tenpay = "";
-          var alipay = "";
-          var paypal = "";
+          var wechat = "wxp://f2f0Jp-dS0oJbyI0O5hNvC-SpPcWvuqVgFeK";
+          var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQouHl4AEYgI_e8gU%3D_xxx_sign&u=471429282&n=%E7%95%99%E7%99%BD";
+          var alipay = "https://qr.alipay.com/fkx18869kkwy1vll65bqiaa";
+          var paypal = "#";
           var myname = "GaoX";
           var profile = "/assets/image/head.png";
           var multilingual = true;
